@@ -1,0 +1,23 @@
+.todo-list{
+    list-style-type:none;
+  }
+  
+  a {
+    text-decoration:none;
+    color:grey;
+  }
+  a:hover{
+    color:purple;
+    font-family:sans-serif;
+  }
+  a:active{
+    color:black;
+  }
+  a:visited{
+    color:burlywood;
+  }
+  a:focus{
+    outline:2px solid blue;
+  }
+  
+  
